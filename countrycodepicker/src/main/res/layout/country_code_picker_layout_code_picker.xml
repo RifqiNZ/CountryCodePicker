@@ -62,7 +62,7 @@
         android:layout_toEndOf="@+id/selected_country_tv"
         android:layout_toRightOf="@+id/selected_country_tv"
         android:adjustViewBounds="true"
-        
+        android:layout_marginLeft="15dp"
         android:src="@drawable/ic_arrow_ccp"
       
         />
