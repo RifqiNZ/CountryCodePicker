@@ -64,7 +64,8 @@
         android:adjustViewBounds="true"
         android:layout_marginLeft="15dp"
         android:src="@drawable/ic_arrow_ccp"
-      
+        android:tint="#22a7f0"
+               
         />
   </RelativeLayout>
 </RelativeLayout>
